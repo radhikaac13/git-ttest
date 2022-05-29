@@ -1,2 +1,4 @@
 git init->for initialising git
 git status->list all untracked files
+git add -A->adding all untracked files to staging area
+git commit -m "message"->adding file from staging area to local repository
