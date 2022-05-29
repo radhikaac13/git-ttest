@@ -2,3 +2,6 @@ git init->for initialising git
 git status->list all untracked files
 git add -A->adding all untracked files to staging area
 git commit -m "message"->adding file from staging area to local repository
+git remote add name path->adding remote
+git remote -v->listing remote
+git push -u name branch->pushing local repo to remote
